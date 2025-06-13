@@ -1,0 +1,5 @@
+2025-06-13 19:41:53,138 - INFO -  * Detected change in '/Users/zeelu/School/25Summer/CST8919/Lab2/app.py', reloading
+2025-06-13 19:41:53,158 - INFO -  * Restarting with stat
+2025-06-13 19:42:04,062 - WARNING - Failed login attempt for username: user (Incorrect credentials) from IP: 127.0.0.1
+2025-06-13 19:42:16,275 - WARNING - Failed login attempt for username: user (Incorrect credentials) from IP: 127.0.0.1
+2025-06-13 19:42:35,664 - INFO - Successful login attempt for username: user from IP: 127.0.0.1
