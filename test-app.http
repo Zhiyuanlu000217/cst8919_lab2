@@ -1,0 +1,13 @@
+###
+# @name SuccessfulLogin
+POST https://cst8919-lab2-h7ecbkcsdfg2dmg3.canadacentral-01.azurewebsites.net/login HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+
+username=user&password=password
+
+###
+# @name FailedLoginIncorrectPassword
+POST https://cst8919-lab2-h7ecbkcsdfg2dmg3.canadacentral-01.azurewebsites.net/login HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+
+username=user&password=wrongpassword
